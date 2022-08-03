@@ -36,7 +36,7 @@ const AppointmentChart = (props) => {
 return (
   <div className={classes.div_chart_plate}>
         <div className={classes.div_title}>
-          <h3>APPOINTMENT DISTRIBUTION ( =REDUX= )</h3>
+          <h3>APPOINTMENT DISTRIBUTION</h3>
         </div>
 
         
